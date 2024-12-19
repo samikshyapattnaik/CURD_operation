@@ -1,0 +1,30 @@
+{
+  "people": [
+    {
+      "id": "2",
+      "name": "Anita Sharma",
+      "username": "anita_sharma",
+      "email": "anita@example.com",
+      "phone": "788897432",
+      "website": "anita.com"
+    },
+    {
+      "id": "1c27",
+      "name": "yamini",
+      "email": "yamini@gmail.com",
+      "phone": "7867655443"
+    },
+    {
+      "id": "4061",
+      "name": "gudu singh",
+      "email": "gudu@gmail.com",
+      "phone": "08976578987"
+    },
+    {
+      "id": "cbfd",
+      "name": "umaan",
+      "email": "umaan@gmail.com",
+      "phone": "08765987690"
+    }
+  ]
+}
